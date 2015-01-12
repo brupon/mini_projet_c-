@@ -18,4 +18,5 @@ int main(int argc, const char * argv[]) {
     plouf* ;
     
     test plouf plaf;
+    lalala;
 }
