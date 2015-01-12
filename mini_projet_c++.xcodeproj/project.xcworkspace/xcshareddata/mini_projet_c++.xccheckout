@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1F13A1E6-A09C-460B-8DF2-844F13B1195B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>mini_projet_c++</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>88346FE0AC6F6C607CE49B079C38E46B0661484F</key>
+		<string>https://github.com/fotp/mini_projet_c-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>mini_projet_c++.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>88346FE0AC6F6C607CE49B079C38E46B0661484F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fotp/mini_projet_c-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>88346FE0AC6F6C607CE49B079C38E46B0661484F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>88346FE0AC6F6C607CE49B079C38E46B0661484F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mini_projet_c++</string>
+		</dict>
+	</array>
+</dict>
+</plist>
