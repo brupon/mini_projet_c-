@@ -14,4 +14,5 @@ int main(int argc, const char * argv[]) {
     
     cout << " test" << endl;
     return 0;
+    test2;
 }
